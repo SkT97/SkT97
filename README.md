@@ -1,4 +1,4 @@
-![An abstract illustration of code, data and connected systems](assets/profile-banner.svg)
+[![An abstract illustration of code, data and connected systems](assets/profile-banner.svg)](#)
 
 <table>
 <tbody>
@@ -18,14 +18,14 @@ I like figuring out how things work. These days, that means building AI applicat
 </td>
 <td align="center" valign="middle" width="420">
 
-![SkT97: a donut of ones and zeros and a cone inside it, turning in opposite directions](assets/skt97-ascii.svg)
+[![SkT97: a donut of ones and zeros and a cone inside it, turning in opposite directions](assets/skt97-ascii.svg)](#)
 
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
 
-![Rotating one-line statements about my work](assets/typing.svg)
+[![Rotating one-line statements about my work](assets/typing.svg)](#)
 
 </td>
 </tr>
@@ -87,7 +87,7 @@ I document the task, data, model and measurement conditions behind a result. For
 
 </details>
 
-![Wave divider](assets/wave.svg)
+[![Wave divider](assets/wave.svg)](#)
 
 ## Toolbox
 
@@ -101,7 +101,7 @@ I document the task, data, model and measurement conditions behind a result. For
 | **Cloud and delivery** | [![Docker](https://img.shields.io/badge/Docker-166FC2?style=flat&logoColor=white&logo=docker)](https://www.docker.com/) [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-356AC3?style=flat&logoColor=white&logo=googlecloud)](https://cloud.google.com/) [![Terraform](https://img.shields.io/badge/Terraform-7447D7?style=flat&logoColor=white&logo=terraform)](https://github.com/hashicorp/terraform) [![Git](https://img.shields.io/badge/Git-D7482D?style=flat&logoColor=white&logo=git)](https://git-scm.com/) [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2368BC?style=flat&logoColor=white&logo=githubactions)](https://docs.github.com/actions) [![Jenkins](https://img.shields.io/badge/Jenkins-A92C32?style=flat&logoColor=white&logo=jenkins)](https://www.jenkins.io/) [![Cloud Run](https://img.shields.io/badge/Cloud%20Run-256BC2?style=flat&logoColor=white&logo=googlecloud)](https://cloud.google.com/run/docs) [![Cloud Build](https://img.shields.io/badge/Cloud%20Build-316BAE?style=flat&logoColor=white&logo=googlecloud)](https://cloud.google.com/build/docs) |
 | **Authentication** | [![Keycloak](https://img.shields.io/badge/Keycloak-286575?style=flat&logoColor=white&logo=keycloak)](https://www.keycloak.org/) [![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-18675B?style=flat&logoColor=white)](https://oauth.net/2/) [![OpenID Connect](https://img.shields.io/badge/OpenID%20Connect-B86613?style=flat&logoColor=white&logo=openid)](https://openid.net/developers/how-connect-works/) |
 
-![Wave divider](assets/wave.svg)
+[![Wave divider](assets/wave.svg)](#)
 
 ## Beyond code
 
@@ -120,4 +120,4 @@ I believe knowledge should be accessible to everyone. That's one reason I want t
 
 [LinkedIn](https://www.linkedin.com/in/stiven-velkov/) · [GitHub](https://github.com/SkT97)
 
-![Think deep, don't sink. If you don't know how, observe the phenomena of nature, they will give you clear answers and inspiration.](assets/quote.svg)
+[![Think deep, don't sink. If you don't know how, observe the phenomena of nature, they will give you clear answers and inspiration.](assets/quote.svg)](#)
