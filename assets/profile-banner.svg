@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Abstract code and AI illustration</title>
+  <desc id="desc">An original abstract illustration with a terminal, a database, a layered neural network, connected nodes and violet and teal accents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111827"/><stop offset="1" stop-color="#17152d"/></linearGradient>
+    <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#bcacff"/><stop offset="1" stop-color="#7c6cc5"/></linearGradient>
+    <linearGradient id="teal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8ee7d1"/><stop offset="1" stop-color="#3e918f"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#7660bb" stop-opacity=".26"/><stop offset="1" stop-color="#7660bb" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".7" fill="#8e99bc" opacity=".12"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="1198" height="278" rx="22" fill="url(#bg)" stroke="#34354f"/>
+  <rect x="2" y="2" width="1196" height="276" rx="22" fill="url(#grid)"/>
+  <ellipse cx="600" cy="140" rx="420" ry="190" fill="url(#halo)"/>
+  <g fill="none" stroke="#77739e" stroke-width="1.5" opacity=".45">
+    <path d="M30 77 H88 L120 109 H212 M30 200 H95 L125 170 H220 M980 90 H1045 L1080 55 H1170 M990 180 H1070 L1105 215 H1170"/>
+    <path d="M235 40 L285 90 M250 235 L295 190 M920 44 L965 88 M915 230 L960 185" stroke-dasharray="3 7"/>
+  </g>
+  <g transform="translate(92 72) rotate(-8 82 65)">
+    <rect width="166" height="124" rx="15" fill="#161f32" stroke="#8375b0" stroke-width="1.5"/>
+    <path d="M0 28 H166" stroke="#554e79"/>
+    <g fill="#ad9ce4"><circle cx="17" cy="14" r="3"/><circle cx="29" cy="14" r="3"/><circle cx="41" cy="14" r="3"/></g>
+    <path d="M56 54 L37 75 L56 96 M110 54 L129 75 L110 96 M91 49 L75 101" fill="none" stroke="url(#teal)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(1014 138) rotate(10)">
+    <path d="M-39 -30 V28 C-39 48 39 48 39 28 V-30" fill="#1a2e38" stroke="#61bcac" stroke-width="2"/>
+    <ellipse cy="-30" rx="39" ry="13" fill="#243b47" stroke="#83d7c4" stroke-width="2"/>
+    <path d="M-39 -1 C-39 18 39 18 39 -1 M-39 23 C-39 42 39 42 39 23" fill="none" stroke="#61bcac" stroke-width="1.5"/>
+  </g>
+  <g fill="none" stroke="#a295d8" stroke-width="1.6" opacity=".9">
+    <path d="M864 81 L917 55 L952 101 L903 136 Z M917 55 L903 136 M864 81 L952 101"/>
+  </g>
+  <g fill="#1d213b" stroke="#b9a6f4" stroke-width="2"><circle cx="864" cy="81" r="6"/><circle cx="917" cy="55" r="6"/><circle cx="952" cy="101" r="6"/><circle cx="903" cy="136" r="6"/></g>
+  <g fill="none" stroke="#a295d8" stroke-width="1" opacity=".5"><path d="M500 95 L600 75 M500 95 L600 119 M500 95 L600 161 M500 95 L600 205 M500 140 L600 75 M500 140 L600 119 M500 140 L600 161 M500 140 L600 205 M500 185 L600 75 M500 185 L600 119 M500 185 L600 161 M500 185 L600 205 M600 75 L700 95 M600 75 L700 140 M600 75 L700 185 M600 119 L700 95 M600 119 L700 140 M600 119 L700 185 M600 161 L700 95 M600 161 L700 140 M600 161 L700 185 M600 205 L700 95 M600 205 L700 140 M600 205 L700 185"/></g>
+  <g fill="#1d213b" stroke="url(#teal)" stroke-width="2.2"><circle cx="500" cy="95" r="7"/><circle cx="500" cy="140" r="7"/><circle cx="500" cy="185" r="7"/><circle cx="600" cy="75" r="7"/><circle cx="600" cy="119" r="7"/><circle cx="600" cy="161" r="7"/><circle cx="600" cy="205" r="7"/><circle cx="700" cy="95" r="7"/><circle cx="700" cy="140" r="7"/><circle cx="700" cy="185" r="7"/></g>
+  <g fill="#8ee7d1"><circle cx="326" cy="144" r="3"/><circle cx="818" cy="209" r="3"/><circle cx="1129" cy="104" r="3"/></g>
+</svg>

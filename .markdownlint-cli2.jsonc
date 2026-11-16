@@ -1,6 +1,18 @@
 {
   "config": {
-    "MD013": false
+    "MD013": false,
+    "MD033": {
+      "allowed_elements": [
+        "details",
+        "table",
+        "tbody",
+        "tr",
+        "td",
+        "summary",
+        "strong"
+      ]
+    },
+    "MD041": false
   },
   "globs": [
     "**/*.md"
