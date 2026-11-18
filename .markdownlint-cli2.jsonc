@@ -9,7 +9,9 @@
         "table",
         "tr",
         "td",
-        "img"
+        "img",
+        "picture",
+        "source"
       ]
     }
   },
