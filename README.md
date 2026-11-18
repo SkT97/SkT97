@@ -4,7 +4,7 @@
 <tr>
 <td valign="middle">
 
-I like figuring out how things work!
+I like figuring out how things work! <br>
 These days, that means building AI applications, trying new tools, and checking whether they actually help.
 
 </td>
