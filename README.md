@@ -4,7 +4,7 @@
 <tr>
 <td valign="middle">
 
-I like figuring out how things work! <br>
+I like figuring out how things work!\
 These days, that means building AI applications, trying new tools, and checking whether they actually help.
 
 </td>
@@ -27,7 +27,9 @@ These days, that means building AI applications, trying new tools, and checking 
 <details>
 <summary><strong>A note on experiments</strong></summary>
 
-I document the task, data, model and measurement conditions behind a result. For coding-agent comparisons, I also record which runs were excluded and why.
+I document the task, data, model and measurement conditions behind a result.
+
+For coding-agent comparisons, I also record which runs were excluded and why.
 
 </details>
 
@@ -89,7 +91,9 @@ I document the task, data, model and measurement conditions behind a result. For
 
 ## Beyond code
 
-I'm a **national karate champion**, a **1st-dan black belt**, and an instructor. I've won numerous competitions and coached students who won at national level. I enjoy teaching younger students and helping them develop discipline.
+I'm a **national karate champion**, a **1st-dan black belt**, and an instructor. I've won numerous competitions and coached students who won at national level.
+
+I enjoy teaching younger students and helping them develop discipline.
 
 <details>
 <summary><strong>A bit more about me</strong></summary>
