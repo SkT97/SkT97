@@ -4,7 +4,8 @@
 <tr>
 <td valign="middle">
 
-I like figuring out how things work. These days, that means building AI applications, trying new tools, and checking whether they actually help.
+I like figuring out how things work!
+These days, that means building AI applications, trying new tools, and checking whether they actually help.
 
 </td>
 <td align="center" valign="middle">
