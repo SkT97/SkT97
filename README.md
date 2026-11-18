@@ -24,7 +24,7 @@ These days, that means building AI applications, trying new tools, and checking 
 | Project | What it does |
 | --- | --- |
 | **[mcp-secure-server](https://github.com/SkT97/mcp-secure-server)** | Check which records an MCP request can read, with a runnable Keycloak lab |
-| **hx** | Run an agent locally, run your verifier, then inspect the patch before applying it |
+| **[hx](https://github.com/SkT97/hx)** | Run an agent locally, run your verifier, then inspect the patch before applying it |
 | **[harness-lab](https://github.com/SkT97/harness-lab)** | Compare coding-agent runs from CSV and see which runs and counters went into each result |
 
 <details>
